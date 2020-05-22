@@ -1,5 +1,3 @@
-console.log('cleint side javascript is running')
-
 const weatherForm = document.querySelector('form')
 const search = document.querySelector('input')
 const errp = document.querySelector('#errp')
